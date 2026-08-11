@@ -10,6 +10,6 @@
 ## 📝 Latest Blog Posts
 I love to learn and share! 
 <br>
-Please checkout my latest posts:
+Please checkout my latest post:
 
 - [Testing for Accessibility with Playwright](https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o)
